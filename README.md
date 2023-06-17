@@ -37,7 +37,6 @@ To use this board game dashboard, follow these steps:
 1. Launch the dashboard application to visualize and explore the board game data. [Click here to access the dashboard](https://public.tableau.com/views/Project5_Dashboard_BGG/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 2. Interact with the different graphs and features to drill down and obtain the desired information about board games.
 
-Please note that the code and data files provided in this project are for demonstration purposes only and may require further customization and adaptation to suit your specific needs.
 
 ## Conclusion
 
