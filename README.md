@@ -1,4 +1,6 @@
-![Alt Text](./BoardGameGeek_Logo.svg.png){:width="300px" height="200px"}
+<p align="center">
+  <img src="./BoardGameGeek_Logo.svg.png" alt="Alt Text" width="300" height="200">
+</p>
 
 # Board Game Dashboard
 
