@@ -1,4 +1,4 @@
-![Board Game Dashboard](./BoardGameGeek_Logo.svg.png)
+![Board Game Dashboard](./BoardGameGeek_Logo.svg.png){:width="300px" height="200px"}
 # Board Game Dashboard
 
 This project is a board game dashboard that allows users to explore and analyze information about board games. The dashboard provides various visualizations and statistics to help users gain insights into different aspects of board games.
