@@ -1,4 +1,4 @@
-<img src="./BoardGameGeek_Logo.svg.png" alt="Alt Text" width="300">
+<img src="./BoardGameGeek_Logo.svg.png" alt="Alt Text" width="200">
 
 # Board Game Dashboard
 
